@@ -1,0 +1,169 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "People_1",
+					"strict" : false
+				},
+				{
+					"name" : "People_2",
+					"strict" : false
+				},
+				{
+					"name" : "People_3",
+					"strict" : false
+				},
+				{
+					"name" : "People_4",
+					"strict" : false
+				},
+				{
+					"name" : "Green_Side_1",
+					"strict" : false
+				},
+				{
+					"name" : "Green_Side_2",
+					"strict" : false
+				},
+				{
+					"name" : "Amber_Side_1",
+					"strict" : false
+				},
+				{
+					"name" : "Amber_Side_2",
+					"strict" : false
+				},
+				{
+					"name" : "Red_Side_1",
+					"strict" : false
+				},
+				{
+					"name" : "Red_Side_2",
+					"strict" : false
+				},
+				{
+					"name" : "Green_Main_1",
+					"strict" : false
+				},
+				{
+					"name" : "Green_Main_2",
+					"strict" : false
+				},
+				{
+					"name" : "Amber_Main_1",
+					"strict" : false
+				},
+				{
+					"name" : "Amber_Main_2",
+					"strict" : false
+				},
+				{
+					"name" : "Red_Main_1",
+					"strict" : false
+				},
+				{
+					"name" : "Red_Main_2",
+					"strict" : false
+				},
+				{
+					"name" : "Q0_LED",
+					"strict" : false
+				},
+				{
+					"name" : "Q1_LED",
+					"strict" : false
+				},
+				{
+					"name" : "Q2_LED",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_Q1",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_Q0",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_Q2",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_a",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_b",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_c",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_d",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_e",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_f",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_seg_g",
+					"strict" : false
+				},
+				{
+					"name" : "People_Status",
+					"strict" : false
+				},
+				{
+					"name" : "Side_Status",
+					"strict" : false
+				},
+				{
+					"name" : "Main_Status",
+					"strict" : false
+				},
+				{
+					"name" : "Controller_Reset",
+					"strict" : false
+				},
+				{
+					"name" : "Timer_Reset",
+					"strict" : false
+				},
+				{
+					"name" : "People_Button",
+					"strict" : false
+				},
+				{
+					"name" : "Side_Button",
+					"strict" : false
+				},
+				{
+					"name" : "Side_Button1",
+					"strict" : false
+				},
+				{
+					"name" : "Main_Button",
+					"strict" : false
+				},
+				{
+					"name" : "Main_Button1",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_Signal",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
