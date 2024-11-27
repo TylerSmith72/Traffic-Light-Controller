@@ -7,4 +7,6 @@ This project was made for my university coursework, using Quartus Prime to creat
 
 To be continued...
 
+## How To Test:
 
+To be continued...
